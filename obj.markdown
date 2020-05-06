@@ -1,5 +1,7 @@
 **CS240 Team Project**
+
 Team members: Charles Bartoletti, Qicheng Xiong, Reign Bey
+
 Member emails:
 rbey1@binghamton.edu
 cbartol1@binghamton.edu
